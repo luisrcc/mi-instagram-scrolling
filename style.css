@@ -35,6 +35,7 @@ span {
 div.iconos {
 	padding-left: 10px;
 }
+
 div.marca {
 	padding-left: 95%;
 	position: relative;
@@ -51,19 +52,11 @@ div.opciones {
 	width: 40px;
 	height: 40px;
 	position: absolute;
-	margin-top: 20px;
-	margin-left: 20px;
+	margin-top: 10px;
+	margin-left: 10px;
 }
 
 h2 {
 	margin-left: 60px;
 	margin-top: 10px;
-}
-
-h3 {
-	margin-left: 80px;
-	color: #8D8D8D;
-	font-family: 'Raleway', sans-serif;
-	font-size: 15px;
-	margin-top: -40px;
 }
